@@ -1,6 +1,6 @@
 # GoPhish Ruby API
 
-This is a collection of ruby bindings to the GoPhish API. I saw that there wasn't one, and I wanted to change that. Hopefully this makes your life easier in some way.
+This is the unofficial Ruby wrapper for the GoPhish API. Documentation can be found [here](https://www.rubydoc.info/github/drewlong/gophish-ruby).
 
 ## Installation
 

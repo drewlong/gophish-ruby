@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name        = 'gophish'
-  s.version     = '0.1.1'
+  s.version     = '0.1.2'
   s.date        = '2019-08-07'
   s.summary     = 'GoPhish API wrapper for Ruby.'
   s.description = 'A simple wrapper for the GoPhish API.'
