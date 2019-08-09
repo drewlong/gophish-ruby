@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.summary     = 'GoPhish API wrapper for Ruby.'
   s.description = 'A simple wrapper for the GoPhish API.'
   s.authors     = ['Andrew Long']
-  s.email       = 'andrew.long@secunetics.com'
+  s.email       = 'drewlong@protonmail.com'
   s.files       = Dir['lib/**/*.rb']
   s.homepage    =
     'https://rubygems.org/gems/gophish'
