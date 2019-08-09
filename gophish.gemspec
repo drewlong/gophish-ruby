@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name        = 'gophish'
-  s.version     = '0.1.0'
+  s.version     = '0.1.1'
   s.date        = '2019-08-07'
   s.summary     = 'GoPhish API wrapper for Ruby.'
   s.description = 'A simple wrapper for the GoPhish API.'
@@ -10,6 +10,6 @@ Gem::Specification.new do |s|
   s.email       = 'drewlong@protonmail.com'
   s.files       = Dir['lib/**/*.rb']
   s.homepage    =
-    'https://rubygems.org/gems/gophish'
+    'https://github.com/drewlong/gophish-ruby'
   s.license = 'MIT'
 end
